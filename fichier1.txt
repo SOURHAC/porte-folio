@@ -1,1 +1,2 @@
-ici c'est le premier fichier que je tente d'ajouter en
+ici c'est le premier fichier que je tente d'ajouter.
+//C'est la partie du deuxième dev2.
